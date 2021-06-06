@@ -8,4 +8,5 @@ This is my first try at using GitHub.
 * Upstream tracking (-u argument to git push when pushing a branch)
 
 # Some useful topics ;-)
-* [Branches](.README_branches.md)
+* Undo changes (to do!)
+* [Branches](./README_branches.md)
